@@ -3,10 +3,22 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    flex-direction: column;
+    flex-direction: row;
     min-height: 100vh;
 }
 
 .sunny {
+    fill: #0a0a0a;
+}
+
+.cloudy {
+    fill: #0a0a0a;
+}
+
+.attention {
+    fill: #0a0a0a;
+}
+
+.rainbow {
     fill: #0a0a0a;
 }
